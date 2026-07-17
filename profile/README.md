@@ -18,16 +18,6 @@
 
 [Misskey](https://misskey-hub.net/) をもっと快適に使うためのクライアント [NoteDeck](https://notedeck.io) と、その周辺ツール群を作っている開発者コミュニティ
 
-## プロジェクト
-
-| リポジトリ | 説明 |
-|---|---|
-| [📔 notedeck](https://github.com/notedeck-dev/notedeck) | Misskey 統合デッキ環境（IDE: Integrated Deck Environment）。Tauri 製のデスクトップ / モバイルクライアント |
-| [📦 misstore](https://github.com/notedeck-dev/misstore) | Misskey クライアントストア（[store.notedeck.io](https://store.notedeck.io)） |
-| [😈 notecli](https://github.com/notedeck-dev/notecli) | Misskey ヘッドレスクライアント |
-| [📟 notetui](https://github.com/notedeck-dev/notetui) | Misskey TUI クライアント |
-| [👾 notebot](https://github.com/notedeck-dev/notebot) | Misskey bot フレームワーク |
-
 ## 参加
 
 Issue と Pull Request はどのリポジトリでも歓迎します。
