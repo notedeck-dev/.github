@@ -28,3 +28,4 @@ Issue と Pull Request はどのリポジトリでも歓迎します。
 
 - [notedeck.io](https://notedeck.io)：NoteDeck の公式サイト・ダウンロード
 - [DeepWiki](https://deepwiki.com/notedeck-dev/notedeck)：コードベースの自動生成ドキュメント
+- [HackMD](https://hackmd.io/@notedeck-dev)：開発メンバーによるドキュメント
