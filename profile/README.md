@@ -27,4 +27,4 @@ Issue と Pull Request はどのリポジトリでも歓迎します。
 ## 文献
 
 - [notedeck.io](https://notedeck.io)：NoteDeck の公式サイト・ダウンロード
-- [DeepWiki](https://deepwiki.com/hitalin/notedeck)：コードベースの自動生成ドキュメント
+- [DeepWiki](https://deepwiki.com/notedeck-dev/notedeck)：コードベースの自動生成ドキュメント
