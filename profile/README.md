@@ -21,7 +21,7 @@ Misskey 廃人のための「Misskey Pro」こと [NoteDeck](https://notedeck.io
 
 ## 参加
 
-Issue と Pull Request はどのリポジトリでも歓迎します。本体に手を入れる場合は [CONTRIBUTING.md](https://github.com/notedeck-dev/notedeck/blob/main/CONTRIBUTING.md) を、質問やアイデアは [Discussions](https://github.com/notedeck-dev/notedeck/discussions) をどうぞ
+Issue と Pull Request はどのリポジトリでも歓迎します。本体に手を入れる場合は [DEVELOPMENT.md](https://github.com/notedeck-dev/notedeck/blob/main/DEVELOPMENT.md) を、質問やアイデアは [Discussions](https://github.com/notedeck-dev/notedeck/discussions) をどうぞ
 
 テーマやプラグインを作ったら、[misstore に投稿](https://github.com/notedeck-dev/misstore/blob/main/CONTRIBUTING.md)してください
 
