@@ -19,20 +19,6 @@
 
 Misskey 廃人のための「Misskey Pro」こと [NoteDeck](https://notedeck.io) と、その拡張ストア・外部ツール連携を作っている開発者コミュニティ
 
-## プロジェクト
-
-| リポジトリ | 説明 |
-|---|---|
-| [📔 notedeck](https://github.com/notedeck-dev/notedeck) | NoteDeck 本体。Tauri 製の Misskey クライアント |
-| [📦 misstore](https://github.com/notedeck-dev/misstore) | Misskey Web と NoteDeck の拡張ストア（[store.notedeck.io](https://store.notedeck.io)）。テーマ・プラグイン・ウィジェット・クエリ・スキルを配布 |
-| [🚀 notedeck-raycast](https://github.com/notedeck-dev/notedeck-raycast) | Raycast から投稿・検索・カラム移動 |
-| [🎛️ notedeck-streamdeck](https://github.com/notedeck-dev/notedeck-streamdeck) | Stream Deck のキーから投稿・capability 実行 |
-| [📝 notedeck-obsidian](https://github.com/notedeck-dev/notedeck-obsidian) | ノートを Obsidian の vault にクリップ、タイムラインを表示 |
-| [🌐 notedeck-browser](https://github.com/notedeck-dev/notedeck-browser) | 読んでいるページを投稿、Misskey のリンクを NoteDeck で開くブラウザ拡張 |
-| [✏️ notedeck-vscode](https://github.com/notedeck-dev/notedeck-vscode) | NoteDeck 向け拡張（AiScript）を VS Code で開発 |
-
-`notedeck-*` はいずれも、NoteDeck のローカル HTTP API と `notedeck://` リンクを通じて動く連携ツールです。
-
 ## 参加
 
 Issue と Pull Request はどのリポジトリでも歓迎します。本体に手を入れる場合は [CONTRIBUTING.md](https://github.com/notedeck-dev/notedeck/blob/main/CONTRIBUTING.md) を、質問やアイデアは [Discussions](https://github.com/notedeck-dev/notedeck/discussions) をどうぞ
